@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Arystan-Aldiyev
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Golang💪
 - I will add something here soon
 
 <!---
